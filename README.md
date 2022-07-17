@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/tianhang12)
 [![Blog](https://img.shields.io/badge/Website-FFA500?style=flat&logo=rss&logoColor=white)](https://blog.augustrush8.com/)
 [![Telegram](https://img.shields.io/badge/-telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/deep_insight_blog)
-[![Gmail](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:643098432@qq.com)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:643098432@qq.com)
