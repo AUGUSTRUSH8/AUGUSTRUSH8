@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 ### Get In Touch ☕ 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/augustrush8)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/tianhang12)
-[![Blog](https://img.shields.io/badge/RSS-FFA500?style=flat&logo=rss&logoColor=white)](https://blog.augustrush8.com/)
+[![Blog](https://img.shields.io/badge/Website-FFA500?style=flat&logo=rss&logoColor=white)](https://blog.augustrush8.com/)
 [![Telegram](https://img.shields.io/badge/-telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/deep_insight_blog)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:643098432@qq.com)
+[![Gmail](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:643098432@qq.com)
